@@ -1,12 +1,12 @@
 ---
 layout: category
-title: General Help
+title: General
 category: true
-summary: Get help with any aspect of the Jekyll Disqus Forum.
-id: 2736939
+summary: Questions about class structure, assignment due dates, and non-computer science administrative topics.
+id: 3312732
 group-id: help
 ---
 
-# General help
+# General
 
-Get help with any aspect of the Jekyll Disqus Forum.
+Questions about class structure, assignment due dates, and non-computer science administrative topics.
