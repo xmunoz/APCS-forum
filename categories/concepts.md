@@ -4,7 +4,7 @@ title: Concepts
 category: true
 summary: For loops, if/else, data types, oh my! 
 id: 3312754
-group-id: help
+group-id: topics
 ---
 
 # Concepts
