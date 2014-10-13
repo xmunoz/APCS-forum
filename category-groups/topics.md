@@ -1,11 +1,11 @@
 ---
 layout: category-group
-title: Help
+title: Topics
 category-group: true
 summary: Find what you need help with here!
-id: help
+id: Topics
 ---
 
-# Help
+# Topics
 
-Get help using Jekyll Disqus Forum.
+Find what you need help with here!
